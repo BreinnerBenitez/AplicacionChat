@@ -6,9 +6,13 @@
 
 ![imagencarpeta](aplicacionchat/img/carpeta.PNG)
 
+___
+
 ### 2) cuando el servidor este ejecutando puedes utlizar   ` ClienteChat.exe ` en computadores de la red, primer mensaje:
 ![imagencarpeta](aplicacionchat/img/2nombre.PNG)
 
+
+___
 ### 3) el egundo mensaje te pide ip del servidor esta ip es del PC donde se Ejecuta  ` servidor.java ` 
 ![imagencarpeta](aplicacionchat/img/3ipservidor.PNG)
 
@@ -18,7 +22,7 @@ ___
       ###  **EJEMPLO**
         ![imagencarpeta](aplicacionchat/img/cmdipconfig.PNG)
 
-___
+
 
 
 ### 4) confirmar ip 
