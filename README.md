@@ -66,5 +66,13 @@ ___
 
 
 
+___
+
+### sigue la conversa 
+
+![imagencarpeta](aplicacionchat/img/8repondecliente2.PNG)       ![imagencarpeta](aplicacionchat/img/9responecliente4.PNG)
+
+
+
 
 
