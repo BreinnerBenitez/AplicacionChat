@@ -7,7 +7,7 @@
 ![imagencarpeta](aplicacionchat/img/carpeta.PNG)
 
 
-
+___
 ### 2) cuando el servidor este ejecutando puedes utlizar   ` ClienteChat.exe ` en computadores de la red, primer mensaje:
 ![imagencarpeta](aplicacionchat/img/2nombre.PNG)
 
@@ -27,7 +27,7 @@ ___
 
 
 
-
+___
 ### 4) confirmar ip 
 
 
@@ -38,7 +38,7 @@ ___
 
 
 
-
+___
 ### 5) si te pide permisos de red aceptalos es para poder conectar al servidor
 
 
@@ -47,7 +47,7 @@ ___
 
 
 
-
+___
 ### 6)  escoge ipcliente para chatear 
 
 
@@ -57,7 +57,7 @@ ___
 
 
 
-
+___
 ### 7)  el  ` ClienteChat.exe ` de otro pc responde 
 
 
