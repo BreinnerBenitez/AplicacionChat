@@ -68,7 +68,8 @@ ___
 
 ___
 
-### 8) sigue la conversa 
+
+###  8) sigue la conversa 
 
 ![imagencarpeta](aplicacionchat/img/8repondecliente2.PNG)     
 
