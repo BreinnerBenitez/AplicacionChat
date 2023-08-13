@@ -6,7 +6,7 @@
 
 ![imagencarpeta](aplicacionchat/img/carpeta.PNG)
 
-___
+
 
 ### 2) cuando el servidor este ejecutando puedes utlizar   ` ClienteChat.exe ` en computadores de la red, primer mensaje:
 ![imagencarpeta](aplicacionchat/img/2nombre.PNG)
@@ -18,9 +18,10 @@ ___
 
 ___
 
-      ###  **si necesitas la ip escribe en el cmd de windows   ` ipconfig ` donde dice  Direccion IPv4  esa es la ip del servior**
-      ###  **EJEMPLO**
-        ![imagencarpeta](aplicacionchat/img/cmdipconfig.PNG)
+   ###  **si necesitas la ip escribe en el cmd de windows   ` ipconfig ` donde dice  Direccion IPv4  esa es la ip del servior**
+   ###  **EJEMPLO**
+       
+      ![imagencarpeta](aplicacionchat/img/cmdipconfig.PNG)
 
 
 
