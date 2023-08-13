@@ -2,7 +2,7 @@
 ## **Utilizar en Windows**
 ### 1) utiliza el  ` servidor.java `   de la carpeta en un IDE de tu gusto como **Eclipse**, **Netbens** y ejecutas el codigo fuente.
 ### *para que funcione bien  los clientes y el servidor deben estar ejecutandose en una red LAN.* 
-### *el  ` .java `  .* 
+### *para ver el codigo fuente  del   ` Cliente.java ` osea del chat  esta en la ruta   .* 
 
 ![imagencarpeta](aplicacionchat/img/carpeta.PNG)
 
