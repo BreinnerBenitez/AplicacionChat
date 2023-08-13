@@ -1,8 +1,8 @@
 # AplicacionChat 💻
 ## **Utilizar en Windows**
-### 1) utiliza el  ` servidor.java `   de la carpeta en un IDE de tu gusto como **Eclipse**, **Netbens** y ejecutas 
-###  el codigo fuente.
+### 1) utiliza el  ` servidor.java `   de la carpeta en un IDE de tu gusto como **Eclipse**, **Netbens** y ejecutas el codigo fuente.
 ### *para que funcione bien  los clientes y el servidor deben estar ejecutandose en una red LAN.* 
+### *el  ` .java `  .* 
 
 ![imagencarpeta](aplicacionchat/img/carpeta.PNG)
 
