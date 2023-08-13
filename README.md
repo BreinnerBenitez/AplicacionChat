@@ -16,7 +16,8 @@ ___
 ### 3) el egundo mensaje te pide ip del servidor esta ip es del PC donde se Ejecuta  ` servidor.java ` 
 ![imagencarpeta](aplicacionchat/img/3ipservidor.PNG)
 
-___
+
+
 
    ###  **si necesitas la ip escribe en el cmd de windows   ` ipconfig ` donde dice  Direccion IPv4  esa es la ip del servior**
    ###  **EJEMPLO**
