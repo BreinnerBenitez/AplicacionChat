@@ -14,8 +14,8 @@
 
 ___
 
-        ** si necesitas la ip escribe en el cmd de windows   ` ipconfig `  donde dice  Direccion IPv4  esa es la ip del servior**
-        **EJEMPLO**
+      ###  **si necesitas la ip escribe en el cmd de windows   ` ipconfig ` donde dice  Direccion IPv4  esa es la ip del servior**
+      ###  **EJEMPLO**
         ![imagencarpeta](aplicacionchat/img/cmdipconfig.PNG)
 
 ___
